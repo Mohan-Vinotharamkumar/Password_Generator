@@ -1,0 +1,48 @@
+#heading
+{
+    font-family: papyrus;
+    margin-top: 2%;
+    letter-spacing: 5px;
+}
+#container
+{
+    height: 30rem;
+    width: 60%;
+    /* background-color: aqua; */
+    margin: auto;
+    display: block;
+}
+#field
+{
+    height: 3rem;
+    width: 60%;
+    outline: 0;
+    border: none;
+    background-color: transparent;
+    border-bottom: 2px solid gray;
+    margin: auto;
+    padding-top: 5%;
+}
+#pass
+{
+    letter-spacing: 2px;
+    font-family: papyrus;
+    font-weight: bolder;
+}
+#rangescale
+{
+    margin-top: 2%;
+    width: 30%;
+
+}
+#pass_length
+{
+    font-size: 1.2rem;
+}
+#btn
+{
+    margin-top: 5%;
+    cursor: pointer;
+    height: 3rem;
+    width: 10rem;
+}
